@@ -838,11 +838,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Domain\\ghosts.domain.csproj",
+      "projectUniqueName": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Domain\\ghosts.domain.csproj",
       "projectName": "ghosts.domain",
-      "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Domain\\ghosts.domain.csproj",
+      "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Domain\\ghosts.domain.csproj",
       "packagesPath": "C:\\Users\\Palash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Palash\\AppData\\Roaming\\NuGet\\NuGet.Config",

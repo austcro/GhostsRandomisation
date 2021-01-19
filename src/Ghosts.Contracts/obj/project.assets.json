@@ -856,11 +856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Contracts\\Ghosts.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Contracts\\Ghosts.Contracts.csproj",
       "projectName": "Ghosts.Contracts",
-      "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Contracts\\Ghosts.Contracts.csproj",
+      "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Contracts\\Ghosts.Contracts.csproj",
       "packagesPath": "C:\\Users\\Palash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Palash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -876,8 +876,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Domain\\ghosts.domain.csproj": {
-              "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Domain\\ghosts.domain.csproj"
+            "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Domain\\ghosts.domain.csproj": {
+              "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Domain\\ghosts.domain.csproj"
             }
           }
         }

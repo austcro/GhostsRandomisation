@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qC4exW7xPFOcI9MVAa111GS/6b73/yF35olU1cIwZvK88SLdWEp3U5OqjP6FjOCa3N+k04rwI7xfSRsbbFCTnw==",
+  "dgSpecHash": "3sSnKcTiZoiucMRdwR2b8O21wXv0Nw+G6Yl7kMLr244Jm+hIAFhFrJ/bv8glaM6KTLXzosYKm+ttOE+HCNiPnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Contracts\\Ghosts.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Contracts\\Ghosts.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palash\\.nuget\\packages\\dotnetcore.npoi\\1.2.1\\dotnetcore.npoi.1.2.1.nupkg.sha512",
     "C:\\Users\\Palash\\.nuget\\packages\\dotnetcore.npoi.core\\1.2.1\\dotnetcore.npoi.core.1.2.1.nupkg.sha512",

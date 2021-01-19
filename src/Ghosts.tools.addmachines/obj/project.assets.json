@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.tools.addmachines\\ghosts.tools.addmachines.csproj",
+      "projectUniqueName": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.tools.addmachines\\ghosts.tools.addmachines.csproj",
       "projectName": "ghosts.tools.addmachines",
-      "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.tools.addmachines\\ghosts.tools.addmachines.csproj",
+      "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.tools.addmachines\\ghosts.tools.addmachines.csproj",
       "packagesPath": "C:\\Users\\Palash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.tools.addmachines\\obj\\",
+      "outputPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.tools.addmachines\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Palash\\AppData\\Roaming\\NuGet\\NuGet.Config",

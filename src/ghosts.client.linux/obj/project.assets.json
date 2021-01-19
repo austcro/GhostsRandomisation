@@ -9036,11 +9036,11 @@
   "project": {
     "version": "3.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.client.linux\\ghosts.client.linux.csproj",
+      "projectUniqueName": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\ghosts.client.linux\\ghosts.client.linux.csproj",
       "projectName": "ghosts.client.linux",
-      "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.client.linux\\ghosts.client.linux.csproj",
+      "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\ghosts.client.linux\\ghosts.client.linux.csproj",
       "packagesPath": "C:\\Users\\Palash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.client.linux\\obj\\",
+      "outputPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\ghosts.client.linux\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Palash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9056,8 +9056,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Domain\\ghosts.domain.csproj": {
-              "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.Domain\\ghosts.domain.csproj"
+            "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Domain\\ghosts.domain.csproj": {
+              "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.Domain\\ghosts.domain.csproj"
             }
           }
         }

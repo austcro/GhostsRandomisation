@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.tools.converttotimeline\\ghosts.tools.converttotimeline.csproj",
+      "projectUniqueName": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\ghosts.tools.converttotimeline\\ghosts.tools.converttotimeline.csproj",
       "projectName": "ghosts.tools.converttotimeline",
-      "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.tools.converttotimeline\\ghosts.tools.converttotimeline.csproj",
+      "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\ghosts.tools.converttotimeline\\ghosts.tools.converttotimeline.csproj",
       "packagesPath": "C:\\Users\\Palash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.tools.converttotimeline\\obj\\",
+      "outputPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\ghosts.tools.converttotimeline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Palash\\AppData\\Roaming\\NuGet\\NuGet.Config",

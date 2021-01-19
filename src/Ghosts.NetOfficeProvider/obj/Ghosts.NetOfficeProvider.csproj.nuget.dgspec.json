@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj": {}
+    "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj": {
+    "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj",
+        "projectUniqueName": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj",
         "projectName": "Ghosts.NetOfficeProvider",
-        "projectPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj",
+        "projectPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj",
         "packagesPath": "C:\\Users\\Palash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.NetOfficeProvider\\obj\\",
+        "outputPath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.NetOfficeProvider\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Palash\\AppData\\Roaming\\NuGet\\NuGet.Config",

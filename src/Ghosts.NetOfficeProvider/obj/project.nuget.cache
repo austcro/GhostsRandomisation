@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZ2GCjLL+OQiUPT5bmIATg2LNnJ7NvK4eh381BmX7r6/lCkwieKgTcsBa72eP/+kkOJD4rfbtF4MmsGY9FnksA==",
+  "dgSpecHash": "nDXNT35mIpUkqcS/A/Spm1ZGGpUMwjxue9hApYdm3sAdnUE/BI1HaJvQ2FaPFCwLE9n2PprDVXCVW1hevmx5vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj",
+  "projectFilePath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.NetOfficeProvider\\Ghosts.NetOfficeProvider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palash\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Palash\\.nuget\\packages\\netoffice.core\\1.7.4.4\\netoffice.core.1.7.4.4.nupkg.sha512",

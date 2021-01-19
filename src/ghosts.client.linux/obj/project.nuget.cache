@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UG0SiMWBUBA6iCBQah4uf7gPScMq2n7EMl9XKBKtQfjVji9Jtflti2xbor34CM8sms5nfieE0/lrdvU5/JePSQ==",
+  "dgSpecHash": "A9QF//D7h7uBB75V+2NBI3/kTW7dixasU00M0bP1oY5JkFUnlQcjCKdH3Q398E7JRvD8GAZ+FzOnpY35oNjk8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.client.linux\\ghosts.client.linux.csproj",
+  "projectFilePath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\ghosts.client.linux\\ghosts.client.linux.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palash\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
     "C:\\Users\\Palash\\.nuget\\packages\\dotnetcore.npoi\\1.2.1\\dotnetcore.npoi.1.2.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iz3zmKBGI7/+cRwnBlyvDYnLK72Oz5WdJSEPA8HZp+TXh6/Rx+XcU1/kHcb48nVDVWnCMtXp9o82tpmG4oBZ5w==",
+  "dgSpecHash": "9aLolDZi/CcTNf0pKpJNJ0Nz9VQIOMyXd1OiDXzjSZzRZz6NiA7MLA4jykSA7xatwvftPQnH/XQLmTPkGIjnVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.tools.addmachines\\ghosts.tools.addmachines.csproj",
+  "projectFilePath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.tools.addmachines\\ghosts.tools.addmachines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palash\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Palash\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

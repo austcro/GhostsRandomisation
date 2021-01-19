@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vtHP2Eg3+L8+SPMkFVXT1st4I/zP4RWFF5LD0gsWE9BJZcJkgWi9e3/fWnB+CdcBBH1qUVncmk59uUHEvWFXNQ==",
+  "dgSpecHash": "znErkHO9/+sZqdA4FScqsBWk0txGHjk4T1A2egDPpVsMeoVYS7R+n/uDWnQhOnfHMkGekBL4kYwe2TRX4KIMXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\Ghosts.MarshallProvider\\Ghosts.MarshalProvider.csproj",
+  "projectFilePath": "C:\\Users\\Palash\\wp\\GhostsRandomisation\\src\\Ghosts.MarshallProvider\\Ghosts.MarshalProvider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palash\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Palash\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
