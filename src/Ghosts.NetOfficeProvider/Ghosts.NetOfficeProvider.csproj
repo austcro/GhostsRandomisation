@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetOffice.Excel" Version="1.7.4.4" />
+    <PackageReference Include="NetOffice.Excel.Net45" Version="1.7.4.4" />
+    <PackageReference Include="NetOffice.Word" Version="1.7.4.4" />
+    <PackageReference Include="NetOffice.Word.Net45" Version="1.7.4.4" />
+  </ItemGroup>
+
+</Project>

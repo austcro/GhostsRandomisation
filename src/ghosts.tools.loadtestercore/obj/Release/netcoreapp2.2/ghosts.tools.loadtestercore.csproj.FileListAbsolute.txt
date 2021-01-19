@@ -1,0 +1,12 @@
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\bin\Release\netcoreapp2.2\ghosts.tools.loadtestercore.deps.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\bin\Release\netcoreapp2.2\ghosts.tools.loadtestercore.runtimeconfig.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\bin\Release\netcoreapp2.2\ghosts.tools.loadtestercore.runtimeconfig.dev.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\bin\Release\netcoreapp2.2\ghosts.tools.loadtestercore.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\bin\Release\netcoreapp2.2\ghosts.tools.loadtestercore.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\obj\Release\netcoreapp2.2\ghosts.tools.loadtestercore.csprojAssemblyReference.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\obj\Release\netcoreapp2.2\ghosts.tools.loadtestercore.AssemblyInfoInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\obj\Release\netcoreapp2.2\ghosts.tools.loadtestercore.AssemblyInfo.cs
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\obj\Release\netcoreapp2.2\ghosts.tools.loadtestercore.csproj.CoreCompileInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\obj\Release\netcoreapp2.2\ghosts.tools.loadtestercore.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\obj\Release\netcoreapp2.2\ghosts.tools.loadtestercore.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.loadtestercore\obj\Release\netcoreapp2.2\ghosts.tools.loadtestercore.genruntimeconfig.cache

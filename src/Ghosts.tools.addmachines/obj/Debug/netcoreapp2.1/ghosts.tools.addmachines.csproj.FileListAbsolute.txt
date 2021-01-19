@@ -1,0 +1,12 @@
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\bin\Debug\netcoreapp2.1\ghosts.tools.addmachines.deps.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\bin\Debug\netcoreapp2.1\ghosts.tools.addmachines.runtimeconfig.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\bin\Debug\netcoreapp2.1\ghosts.tools.addmachines.runtimeconfig.dev.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\bin\Debug\netcoreapp2.1\ghosts.tools.addmachines.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\bin\Debug\netcoreapp2.1\ghosts.tools.addmachines.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\obj\Debug\netcoreapp2.1\ghosts.tools.addmachines.AssemblyInfoInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\obj\Debug\netcoreapp2.1\ghosts.tools.addmachines.AssemblyInfo.cs
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\obj\Debug\netcoreapp2.1\ghosts.tools.addmachines.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\obj\Debug\netcoreapp2.1\ghosts.tools.addmachines.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\obj\Debug\netcoreapp2.1\ghosts.tools.addmachines.csproj.CoreCompileInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\obj\Debug\netcoreapp2.1\ghosts.tools.addmachines.genruntimeconfig.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.tools.addmachines\obj\Debug\netcoreapp2.1\ghosts.tools.addmachines.csprojAssemblyReference.cache

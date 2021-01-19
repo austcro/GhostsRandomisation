@@ -1,0 +1,169 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Ghosts.NetOfficeProvider/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "NetOffice.Excel": "1.7.4.4",
+          "NetOffice.Excel.Net45": "1.7.4.4",
+          "NetOffice.Word": "1.7.4.4",
+          "NetOffice.Word.Net45": "1.7.4.4"
+        },
+        "runtime": {
+          "Ghosts.NetOfficeProvider.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NetOffice.Core/1.7.4.4": {
+        "runtime": {
+          "lib/net45/NetOffice.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          },
+          "lib/net45/OfficeApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          },
+          "lib/net45/VBIDEApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        }
+      },
+      "NetOffice.Core.Net45/1.7.4.4": {
+        "runtime": {
+          "lib/net45/NetOffice.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          },
+          "lib/net45/OfficeApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          },
+          "lib/net45/VBIDEApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        }
+      },
+      "NetOffice.Excel/1.7.4.4": {
+        "dependencies": {
+          "NetOffice.Core": "1.7.4.4"
+        },
+        "runtime": {
+          "lib/net45/ExcelApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        }
+      },
+      "NetOffice.Excel.Net45/1.7.4.4": {
+        "dependencies": {
+          "NetOffice.Core.Net45": "1.7.4.4"
+        },
+        "runtime": {
+          "lib/net45/ExcelApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        }
+      },
+      "NetOffice.Word/1.7.4.4": {
+        "dependencies": {
+          "NetOffice.Core": "1.7.4.4"
+        },
+        "runtime": {
+          "lib/net45/WordApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        }
+      },
+      "NetOffice.Word.Net45/1.7.4.4": {
+        "dependencies": {
+          "NetOffice.Core.Net45": "1.7.4.4"
+        },
+        "runtime": {
+          "lib/net45/WordApi.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ghosts.NetOfficeProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NetOffice.Core/1.7.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M/caspVJ+mwUaqrNc+wOjxr5ZqdgFISJSHeRsqcyqMwLlUxTSITxIOzo0vzb59xccNH1yYXx895f/yWymgERxQ==",
+      "path": "netoffice.core/1.7.4.4",
+      "hashPath": "netoffice.core.1.7.4.4.nupkg.sha512"
+    },
+    "NetOffice.Core.Net45/1.7.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2AOT0BesfgVGJq9yg58kI4TbkKj4F5nd2stM7DY7AUZLKMtsr65MDGJiBOzbavUh4Ht3QFJ+sYRDZ41MF8F5Qw==",
+      "path": "netoffice.core.net45/1.7.4.4",
+      "hashPath": "netoffice.core.net45.1.7.4.4.nupkg.sha512"
+    },
+    "NetOffice.Excel/1.7.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oIJI0zah8Xb0/zMAZoRcsRzYovxj79YyZ/BfyJ4Sbuj6M5DBUGTvMrsxLaxf8WLBb+m6yEsyvlqqstAe8fAO6g==",
+      "path": "netoffice.excel/1.7.4.4",
+      "hashPath": "netoffice.excel.1.7.4.4.nupkg.sha512"
+    },
+    "NetOffice.Excel.Net45/1.7.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dqkSMy1PNd6azy6XFnrsTvqnaB+k62VmpzUt/25VtYnYdwIjQJqlzRfkKlL9/LgN7PMdOUWAE2gyrqylVXj1nw==",
+      "path": "netoffice.excel.net45/1.7.4.4",
+      "hashPath": "netoffice.excel.net45.1.7.4.4.nupkg.sha512"
+    },
+    "NetOffice.Word/1.7.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q6QZDu5IVjOJfaJXpcp3dJdLCA/AwE4wx41wfik2LQXLCYdsRBl1ACqXCJZBszpdxBhsreFiGvLOzPrhgVCHBg==",
+      "path": "netoffice.word/1.7.4.4",
+      "hashPath": "netoffice.word.1.7.4.4.nupkg.sha512"
+    },
+    "NetOffice.Word.Net45/1.7.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HPwvzcmEziJibOSQzEv38QTCFrVR1hJKdQGyibbRnobk/76mQ/UWNJH5xJ27Aw9+hz6Zqvfq6D4BILUZUgG7wA==",
+      "path": "netoffice.word.net45/1.7.4.4",
+      "hashPath": "netoffice.word.net45.1.7.4.4.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    }
+  }
+}

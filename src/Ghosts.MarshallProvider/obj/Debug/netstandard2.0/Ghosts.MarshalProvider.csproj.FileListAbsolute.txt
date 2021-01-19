@@ -1,0 +1,12 @@
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\obj\Debug\netstandard2.0\Ghosts.MarshalProvider.AssemblyInfoInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\obj\Debug\netstandard2.0\Ghosts.MarshalProvider.AssemblyInfo.cs
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\bin\Debug\netstandard2.0\Ghosts.MarshalProvider.deps.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\bin\Debug\netstandard2.0\Ghosts.MarshalProvider.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\bin\Debug\netstandard2.0\Ghosts.MarshalProvider.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\bin\Debug\netstandard2.0\Ghosts.NetOfficeProvider.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\bin\Debug\netstandard2.0\Ghosts.NetOfficeProvider.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\obj\Debug\netstandard2.0\Ghosts.MarshalProvider.csproj.CopyComplete
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\obj\Debug\netstandard2.0\Ghosts.MarshalProvider.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\obj\Debug\netstandard2.0\Ghosts.MarshalProvider.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\obj\Debug\netstandard2.0\Ghosts.MarshalProvider.csproj.CoreCompileInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.MarshallProvider\obj\Debug\netstandard2.0\Ghosts.MarshalProvider.csprojAssemblyReference.cache

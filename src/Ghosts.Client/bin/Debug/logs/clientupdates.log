@@ -1,0 +1,100 @@
+HEALTH|16/12/2020 4:31:16 AM|{"Internet":true,"Permissions":false,"ExecutionTime":497,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.147242978,"Cpu":18.7590675,"DiskSpace":0.891899049}}
+TIMELINE|17/01/2021 11:12:43 PM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|17/01/2021 11:12:44 PM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|17/01/2021 11:12:45 PM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+TIMELINE|17/01/2021 11:12:49 PM|{"Handler":"Command","Command":"dir","CommandArg":""}
+HEALTH|17/01/2021 11:12:54 PM|{"Internet":true,"Permissions":false,"ExecutionTime":2710,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.150509909,"Cpu":11.9605417,"DiskSpace":0.6027228}}
+TIMELINE|17/01/2021 11:13:29 PM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|17/01/2021 11:13:30 PM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|17/01/2021 11:13:31 PM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+TIMELINE|17/01/2021 11:13:32 PM|{"Handler":"Command","Command":"dir","CommandArg":""}
+TIMELINE|17/01/2021 11:13:39 PM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://github.com/"}
+TIMELINE|18/01/2021 2:17:50 AM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|18/01/2021 2:17:51 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+TIMELINE|18/01/2021 2:17:52 AM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|18/01/2021 2:17:53 AM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+TIMELINE|18/01/2021 2:17:54 AM|{"Handler":"Command","Command":"dir","CommandArg":""}
+HEALTH|18/01/2021 2:18:00 AM|{"Internet":true,"Permissions":false,"ExecutionTime":557,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.174072072,"Cpu":12.2829895,"DiskSpace":0.6216346}}
+TIMELINE|18/01/2021 2:19:54 AM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|18/01/2021 2:19:54 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+TIMELINE|18/01/2021 2:19:55 AM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|18/01/2021 2:19:56 AM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+HEALTH|18/01/2021 2:19:56 AM|{"Internet":true,"Permissions":false,"ExecutionTime":498,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.173237875,"Cpu":9.206807,"DiskSpace":0.621637762}}
+TIMELINE|18/01/2021 2:21:49 AM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|18/01/2021 2:21:49 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+TIMELINE|18/01/2021 2:21:50 AM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|18/01/2021 2:21:51 AM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+HEALTH|18/01/2021 2:21:51 AM|{"Internet":true,"Permissions":false,"ExecutionTime":516,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.174093887,"Cpu":1.79970264,"DiskSpace":0.621623456}}
+TIMELINE|18/01/2021 2:21:56 AM|{"Handler":"Command","Command":"dir","CommandArg":""}
+TIMELINE|18/01/2021 2:24:06 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 2:24:07 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 2:26:19 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|18/01/2021 2:26:21 AM|{"Internet":true,"Permissions":false,"ExecutionTime":533,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.178923935,"Cpu":1.0579555,"DiskSpace":0.6217705}}
+TIMELINE|18/01/2021 2:26:21 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 2:29:20 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://github.com/"}
+HEALTH|18/01/2021 2:29:22 AM|{"Internet":true,"Permissions":false,"ExecutionTime":513,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.1847482,"Cpu":5.847841,"DiskSpace":0.621691763}}
+TIMELINE|18/01/2021 2:29:50 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://github.com/"}
+HEALTH|18/01/2021 2:29:52 AM|{"Internet":true,"Permissions":false,"ExecutionTime":495,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.1829938,"Cpu":10.7058058,"DiskSpace":0.621717453}}
+TIMELINE|18/01/2021 2:31:24 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 2:31:25 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|18/01/2021 2:31:26 AM|{"Internet":true,"Permissions":false,"ExecutionTime":548,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.182442784,"Cpu":2.83701158,"DiskSpace":0.621867359}}
+TIMELINE|18/01/2021 2:32:46 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|18/01/2021 2:32:47 AM|{"Internet":true,"Permissions":false,"ExecutionTime":531,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.188082457,"Cpu":5.79221153,"DiskSpace":0.6218716}}
+HEALTH|18/01/2021 3:09:04 AM|{"Internet":true,"Permissions":false,"ExecutionTime":788,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.1816768,"Cpu":11.179884,"DiskSpace":0.6218678}}
+HEALTH|18/01/2021 3:11:02 AM|{"Internet":true,"Permissions":false,"ExecutionTime":1371,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.180054158,"Cpu":3.89074087,"DiskSpace":0.6217782}}
+TIMELINE|18/01/2021 3:13:21 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+TIMELINE|18/01/2021 3:18:40 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+HEALTH|18/01/2021 3:18:49 AM|{"Internet":true,"Permissions":false,"ExecutionTime":579,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.170447573,"Cpu":8.425569,"DiskSpace":0.6217835}}
+TIMELINE|18/01/2021 3:19:29 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|18/01/2021 3:19:30 AM|{"Internet":true,"Permissions":false,"ExecutionTime":578,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.16436851,"Cpu":14.6188955,"DiskSpace":0.6218187}}
+HEALTH|18/01/2021 3:21:20 AM|{"Internet":true,"Permissions":false,"ExecutionTime":539,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.164539665,"Cpu":7.7886405,"DiskSpace":0.62182343}}
+TIMELINE|18/01/2021 3:21:22 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 3:39:08 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|18/01/2021 3:40:03 AM|{"Internet":true,"Permissions":false,"ExecutionTime":589,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.167171791,"Cpu":10.34823,"DiskSpace":0.6218302}}
+TIMELINE|18/01/2021 3:41:16 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 3:53:45 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 4:42:37 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|18/01/2021 4:42:38 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 12:47:31 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 12:47:32 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|19/01/2021 12:47:37 AM|{"Internet":true,"Permissions":false,"ExecutionTime":610,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.138516441,"Cpu":17.1344452,"DiskSpace":0.6074544}}
+TIMELINE|19/01/2021 12:49:21 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 12:49:23 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|19/01/2021 12:49:25 AM|{"Internet":true,"Permissions":false,"ExecutionTime":604,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.139272436,"Cpu":9.396738,"DiskSpace":0.607530534}}
+TIMELINE|19/01/2021 12:52:03 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 12:52:05 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|19/01/2021 12:52:12 AM|{"Internet":true,"Permissions":false,"ExecutionTime":572,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.13739416,"Cpu":10.5370617,"DiskSpace":0.607525647}}
+TIMELINE|19/01/2021 12:53:11 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+TIMELINE|19/01/2021 12:53:12 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 12:54:01 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+HEALTH|19/01/2021 12:54:07 AM|{"Internet":true,"Permissions":false,"ExecutionTime":572,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.1458494,"Cpu":9.023152,"DiskSpace":0.607457042}}
+TIMELINE|19/01/2021 12:55:40 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+TIMELINE|19/01/2021 12:55:40 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+HEALTH|19/01/2021 12:55:45 AM|{"Internet":true,"Permissions":false,"ExecutionTime":622,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.138109863,"Cpu":9.609879,"DiskSpace":0.6074626}}
+TIMELINE|19/01/2021 12:59:27 AM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|19/01/2021 12:59:28 AM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|19/01/2021 12:59:29 AM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+TIMELINE|19/01/2021 12:59:31 AM|{"Handler":"Command","Command":"dir","CommandArg":""}
+TIMELINE|19/01/2021 1:03:48 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|19/01/2021 1:03:54 AM|{"Internet":true,"Permissions":false,"ExecutionTime":1045,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.146921828,"Cpu":10.2110872,"DiskSpace":0.6076288}}
+TIMELINE|19/01/2021 1:17:33 AM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|19/01/2021 1:17:34 AM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|19/01/2021 1:17:35 AM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+TIMELINE|19/01/2021 1:17:37 AM|{"Handler":"Command","Command":"dir","CommandArg":""}
+HEALTH|19/01/2021 1:17:42 AM|{"Internet":true,"Permissions":false,"ExecutionTime":878,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.146339074,"Cpu":10.0232954,"DiskSpace":0.6075034}}
+TIMELINE|19/01/2021 1:23:16 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 1:24:59 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://www.google.com.au/"}
+TIMELINE|19/01/2021 1:30:30 AM|{"Handler":"Excel","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 4:38:21 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|19/01/2021 4:38:28 AM|{"Internet":true,"Permissions":false,"ExecutionTime":1691,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.1506626,"Cpu":13.8745871,"DiskSpace":0.607575655}}
+TIMELINE|19/01/2021 4:48:19 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+HEALTH|19/01/2021 4:48:24 AM|{"Internet":true,"Permissions":false,"ExecutionTime":687,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.153486431,"Cpu":10.7007694,"DiskSpace":0.6076048}}
+TIMELINE|19/01/2021 4:48:53 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://github.com/"}
+HEALTH|19/01/2021 4:48:56 AM|{"Internet":true,"Permissions":false,"ExecutionTime":3078,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.152991623,"Cpu":12.2301674,"DiskSpace":0.607675552}}
+TIMELINE|19/01/2021 4:54:50 AM|{"Handler":"BrowserIE","Command":"random","CommandArg":"https://github.com/"}
+TIMELINE|19/01/2021 4:55:26 AM|{"Handler":"Command","Command":"cd %homedrive%%homepath%\\Downloads","CommandArg":""}
+TIMELINE|19/01/2021 4:55:27 AM|{"Handler":"Command","Command":"powershell expand - archive - Path italian_breakfast.zip - destinationpath x","CommandArg":""}
+TIMELINE|19/01/2021 4:55:28 AM|{"Handler":"Command","Command":"cd x","CommandArg":""}
+HEALTH|19/01/2021 4:55:28 AM|{"Internet":true,"Permissions":false,"ExecutionTime":565,"Errors":[],"LoggedOnUsers":["Palash"],"Stats":{"Memory":0.153643176,"Cpu":6.96653128,"DiskSpace":0.607634664}}
+TIMELINE|19/01/2021 4:55:28 AM|{"Handler":"Word","Command":"create","CommandArg":"%homedrive%%homepath%\\Documents"}
+TIMELINE|19/01/2021 4:55:29 AM|{"Handler":"Command","Command":"dir","CommandArg":""}

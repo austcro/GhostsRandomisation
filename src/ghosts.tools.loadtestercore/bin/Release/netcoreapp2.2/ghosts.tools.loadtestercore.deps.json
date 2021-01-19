@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ghosts.tools.loadtestercore/1.0.0": {
+        "dependencies": {
+          "RestSharp": "106.6.7"
+        },
+        "runtime": {
+          "ghosts.tools.loadtestercore.dll": {}
+        }
+      },
+      "RestSharp/106.6.7": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.6.7.0",
+            "fileVersion": "106.6.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ghosts.tools.loadtestercore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/106.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+A1bV6IXh4MzbmVNSWqi3yOUDJC08HlPUX90R9Ith5qwIF2ZJdJAxNOqsDdqwmiJvtJugKRVGULjPoYzxmBFeA==",
+      "path": "restsharp/106.6.7",
+      "hashPath": "restsharp.106.6.7.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\bin\Release\netstandard2.0\Ghosts.NetOfficeProvider.deps.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\bin\Release\netstandard2.0\Ghosts.NetOfficeProvider.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\bin\Release\netstandard2.0\Ghosts.NetOfficeProvider.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\obj\Release\netstandard2.0\Ghosts.NetOfficeProvider.csprojAssemblyReference.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\obj\Release\netstandard2.0\Ghosts.NetOfficeProvider.AssemblyInfoInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\obj\Release\netstandard2.0\Ghosts.NetOfficeProvider.AssemblyInfo.cs
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\obj\Release\netstandard2.0\Ghosts.NetOfficeProvider.csproj.CoreCompileInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\obj\Release\netstandard2.0\Ghosts.NetOfficeProvider.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.NetOfficeProvider\obj\Release\netstandard2.0\Ghosts.NetOfficeProvider.pdb

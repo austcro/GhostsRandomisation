@@ -1,0 +1,41 @@
+{
+"TimeLineHandlers": [
+{
+  "HandlerType": "Command",
+  "Initial": "",
+  "UtcTimeOn": "00:00:00",
+  "UtcTimeOff": "12:00:00",
+  "Loop": true,
+  "TimeLineEvents": [
+    {
+      "Command": "cd %homedrive%%homepath%\\Downloads",
+      "CommandArgs": [
+        "powershell expand - archive - Path italian_breakfast.zip - destinationpath x",
+        "cd x",
+        "dir"
+      ],
+      "DelayAfter": 1308191,
+      "DelayBefore": 0
+    }
+  ]
+},
+{
+  "HandlerType": "Word",
+  "Initial": "",
+  "UtcTimeOn": "00:00:00",
+  "UtcTimeOff": "06:00:00",
+  "Loop": true,
+  "TimeLineEvents": [
+    {
+      "Command": "create",
+      "CommandArgs": [
+        "%homedrive%%homepath%\\Documents"
+      ],
+      "DelayAfter": 639701,
+      "DelayBefore": 0
+    }
+  ]
+},
+
+]
+}

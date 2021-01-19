@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jmObJTSlwM01N1cvmfGYdFjpRA9eSFHwa5hhA3RPt+dko0GepxdJD2ar1TCxUrqXJBN27yi4FEfu14umVPiqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Palash\\source\\repos\\Ghostsrefactored\\src\\ghosts.tools.converttotimeline\\ghosts.tools.converttotimeline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Palash\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

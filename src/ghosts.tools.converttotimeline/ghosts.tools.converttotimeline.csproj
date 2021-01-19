@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\randomisation_df3 %281%29.json" />
+    <None Remove="assets\randomisation_df4 %282%29.json" />
+    <None Remove="assets\randomisation_df5 %283%29.json" />
+    <None Remove="assets\randomisation_df6 %282%29.json" />
+    <None Remove="assets\randomisation_df7 %282%29.json" />
+    <None Remove="assets\randomisation_df8 %281%29.json" />
+    <None Remove="assets\randomisation_df9 %281%29.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="assets\randomisation_df0.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\randomisation_df1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\randomisation_df2.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="config\" />
+  </ItemGroup>
+
+</Project>

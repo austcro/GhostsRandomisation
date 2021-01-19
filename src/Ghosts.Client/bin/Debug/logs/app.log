@@ -1,0 +1,470 @@
+2020/12/09 11:37:32.980|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2020/12/09 11:37:41.415|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2020/12/10 12:12:03.073|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2020/12/10 12:12:16.558|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2020/12/10 12:12:26.968|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2020/12/16 15:27:41.131|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2020/12/16 15:27:50.700|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2020/12/16 15:27:57.569|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2020/12/16 15:31:04.995|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2020/12/16 15:31:05.717|Ghosts.Client.Comms.CheckId.Run|System.ArgumentException: URI formats are not supported.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.Net.WebClient.GetUri(String path)
+   at System.Net.WebClient.OpenRead(String address)
+   at Ghosts.Client.Comms.CheckId.Run() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\CheckId.cs:line 73
+2020/12/16 15:31:06.088|Ghosts.Client.Comms.CheckId.Run|System.ArgumentException: URI formats are not supported.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.Net.WebClient.GetUri(String path)
+   at System.Net.WebClient.OpenRead(String address)
+   at Ghosts.Client.Comms.CheckId.Run() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\CheckId.cs:line 73
+2020/12/16 15:31:15.559|Ghosts.Client.Comms.CheckId.Run|System.ArgumentException: URI formats are not supported.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.Net.WebClient.GetUri(String path)
+   at System.Net.WebClient.OpenRead(String address)
+   at Ghosts.Client.Comms.CheckId.Run() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\CheckId.cs:line 73
+2020/12/16 15:31:15.582|Ghosts.Client.Comms.CheckId.Run|System.ArgumentException: URI formats are not supported.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.Net.WebClient.GetUri(String path)
+   at System.Net.WebClient.OpenRead(String address)
+   at Ghosts.Client.Comms.CheckId.Run() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\CheckId.cs:line 73
+2020/12/16 15:31:24.781|Ghosts.Client.Comms.CheckId.Run|System.ArgumentException: URI formats are not supported.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.Net.WebClient.GetUri(String path)
+   at System.Net.WebClient.OpenRead(String address)
+   at Ghosts.Client.Comms.CheckId.Run() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\CheckId.cs:line 73
+2020/12/16 15:31:34.156|Ghosts.Client.Comms.CheckId.Run|System.ArgumentException: URI formats are not supported.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.Net.WebClient.GetUri(String path)
+   at System.Net.WebClient.OpenRead(String address)
+   at Ghosts.Client.Comms.CheckId.Run() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\CheckId.cs:line 73
+2021/01/18 10:12:30.710|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 10:12:41.214|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 10:12:49.834|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 10:13:23.706|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 10:13:28.425|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 10:13:32.747|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:17:42.706|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:17:49.644|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:17:58.315|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:19:45.281|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:19:52.690|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:21:41.001|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:21:47.664|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:21:56.869|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:23:56.985|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:24:04.275|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:26:10.156|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:26:17.438|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:29:14.232|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:29:18.931|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:29:23.265|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:29:44.491|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:29:49.169|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:29:53.491|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:31:18.704|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:31:23.372|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:31:27.684|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 13:32:36.720|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 13:32:43.796|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:08:48.477|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:08:55.815|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:08:56.598|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/18 14:08:57.001|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/18 14:09:01.820|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:10:51.151|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:10:58.443|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:10:59.058|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/18 14:10:59.285|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/18 14:13:11.835|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:13:19.192|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:18:32.175|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:18:38.791|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:18:47.927|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:18:53.967|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:18:56.279|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:19:02.233|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/18 14:19:02.233|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/18 14:19:20.150|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:19:26.719|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:21:10.574|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:21:16.926|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:21:22.851|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:34:33.008|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:34:39.572|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:34:40.177|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/18 14:34:40.425|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/18 14:38:58.149|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:39:06.035|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:40:01.875|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:40:07.485|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:41:07.611|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:41:14.725|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 14:53:36.033|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 14:53:42.504|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 15:42:30.640|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/18 15:42:35.325|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/18 15:42:39.686|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:40:08.337|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:47:22.066|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:47:26.851|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:47:31.178|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:47:39.806|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:49:15.173|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:49:19.935|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:49:24.275|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:49:33.366|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:49:33.366|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:51:57.343|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:52:02.077|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:52:06.423|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:53:00.631|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:53:07.604|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:53:53.865|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:54:00.319|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:54:06.622|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:54:15.493|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:55:34.405|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:55:39.302|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:55:43.628|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:55:51.860|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:55:53.827|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:55:55.873|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 11:55:57.851|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 11:59:19.139|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 11:59:25.835|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 11:59:26.792|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/19 11:59:27.324|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/19 11:59:31.883|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:03:38.427|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 12:03:44.893|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:03:45.533|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/19 12:03:45.803|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/19 12:03:51.153|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:03:59.865|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:04:01.353|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:15:12.583|Ghosts.Client.Program.Main|Fatal exception in GHOSTS 3.0.0.0: System.IO.FileNotFoundException: Could not find file 'C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\config\timeline.json'.
+File name: 'C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\config\timeline.json'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at Ghosts.Client.Program.Main(String[] args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Program.cs:line 116
+2021/01/19 12:17:25.132|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 12:17:31.856|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:17:32.557|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/19 12:17:33.440|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|System.Runtime.InteropServices.COMException (0x8001010A): Creating an instance of the COM component with CLSID {0006F03A-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 8001010a The message filter indicated that the application is busy. (Exception from HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER)).
+   at System.Runtime.Remoting.RemotingServices.AllocateUninitializedObject(RuntimeType objectType)
+   at System.Runtime.Remoting.Activation.ActivationServices.CreateInstance(RuntimeType serverType)
+   at System.Runtime.Remoting.Activation.ActivationServices.IsCurrentContextOK(RuntimeType serverType, Object[] props, Boolean bNewObj)
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 72
+2021/01/19 12:17:37.717|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:17:45.976|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:17:47.232|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:17:51.242|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 12:17:53.409|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 12:23:07.593|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 12:23:14.213|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:24:49.702|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 12:24:56.370|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 12:24:58.056|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/19 12:24:58.748|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/19 12:30:23.098|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 12:30:29.292|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:38:14.365|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 15:38:19.045|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:38:23.430|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:38:32.091|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:38:34.003|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:38:36.108|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:38:38.016|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:38:49.626|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:38:51.850|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:38:53.638|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:38:55.860|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:39:06.553|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:48:11.792|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 15:48:16.470|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:48:20.827|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:48:45.348|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 15:48:50.029|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:48:50.913|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/19 15:48:51.255|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/19 15:48:54.929|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:49:03.903|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:49:03.903|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:49:07.916|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:49:07.916|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:49:20.665|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:49:24.681|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:49:37.387|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:49:41.412|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:49:43.646|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:44.647|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:45.639|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:46.655|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:47.644|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:48.645|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:49.657|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:52.690|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:54.788|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:54.889|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:49:55.790|Ghosts.Client.Survey.PowerShellManager.Error_DataAdded|System.Management.Automation.PSDataCollection`1[System.Management.Automation.ErrorRecord]
+2021/01/19 15:49:58.902|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:50:03.011|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:50:07.025|Ghosts.Client.Comms.Updates.PostSurvey|System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostSurvey() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 304
+2021/01/19 15:50:12.627|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:50:16.638|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:50:30.507|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:50:34.519|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:50:49.459|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:50:53.473|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:54:33.518|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 15:54:38.199|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:54:38.447|Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook|RDO load error: System.Runtime.InteropServices.COMException (0x800401FA): Wrong OS or OS version for application (Exception from HRESULT: 0x800401FA (CO_E_WRONGOSFORAPP))
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.IClassFactory.CreateInstance(Object pUnkOuter, Guid& refiid, Object& ppunk)
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.NewRedemptionObject(Guid guid) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 256
+   at Ghosts.Client.Infrastructure.Email.RedemptionLoader.new_RDOSession() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\RedemptionLoader.cs:line 27
+   at Ghosts.Client.InterfaceImpl.Outlook.EmulateOutlook(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 61
+2021/01/19 15:54:38.700|Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents|System.Exception: Incorrect number of email config array items - got 1, expected 8
+   at Ghosts.Client.Infrastructure.Email.EmailConfiguration..ctor(List`1 args) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Infrastructure\Email\EmailConfiguration.cs:line 59
+   at Ghosts.Client.InterfaceImpl.Outlook.ExecuteEvents(TimelineHandler handler) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\InterfaceImpl\Outlook.cs:line 116
+2021/01/19 15:54:52.258|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:54:52.258|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:55:20.177|Ghosts.Client.Infrastructure.Email.EmailContentManager.Check|Email content loaded successfully with 7891 records found
+2021/01/19 15:55:24.858|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:55:39.025|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:55:39.524|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:55:43.037|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:55:43.538|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:55:56.677|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:56:00.690|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:56:12.567|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:56:14.148|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:56:16.579|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:56:18.161|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:56:29.618|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:56:32.359|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:56:33.631|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:56:36.370|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:56:46.025|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:56:49.692|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:56:50.036|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:56:53.706|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:57:02.155|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:57:06.168|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:57:06.854|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:57:10.868|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:57:19.686|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:57:23.702|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:57:24.293|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:57:28.306|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:57:40.808|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:57:41.235|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:57:45.248|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:57:48.824|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74
+2021/01/19 15:57:59.784|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:58:02.991|Ghosts.Client.Comms.CheckId.get_Id|config file could not be opened
+2021/01/19 15:58:03.798|Ghosts.Client.Comms.Updates.PostClientResults|Problem posting logs to server System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Ghosts.Client.Comms.Updates.PostResults(String fileName, ResultMachine machine, String postUrl, Boolean isDeletable) in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 242
+   at Ghosts.Client.Comms.Updates.PostClientResults() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 172
+2021/01/19 15:58:07.009|Ghosts.Client.Comms.Updates.GetServerUpdates|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ghosts.Client.Comms.Updates.GetServerUpdates() in C:\Users\Palash\source\repos\Ghostsrefactored\src\Ghosts.Client\Comms\Updates.cs:line 74

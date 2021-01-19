@@ -1,0 +1,13 @@
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\config\application.json
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\config\email-content - Copy.csv
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\config\email-content.csv
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\ghosts.tools.emailgenerator.exe.config
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\ghosts.tools.emailgenerator.exe
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\ghosts.tools.emailgenerator.pdb
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\FileHelpers.dll
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\bin\Release\FileHelpers.xml
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\obj\Release\ghosts.tools.emailgenerator.csprojAssemblyReference.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\obj\Release\ghosts.tools.emailgenerator.csproj.CoreCompileInputs.cache
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\obj\Release\ghosts.tools.emailgenerator.csproj.CopyComplete
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\obj\Release\ghosts.tools.emailgenerator.exe
+C:\Users\Palash\source\repos\Ghostsrefactored\src\ghosts.tools.emailgenerator\obj\Release\ghosts.tools.emailgenerator.pdb

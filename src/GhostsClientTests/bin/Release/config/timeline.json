@@ -1,0 +1,76 @@
+{
+"TimeLineHandlers": [
+{
+  "HandlerType": "Excel",
+  "Initial": "",
+  "UtcTimeOn": "00:00:00",
+  "UtcTimeOff": "19:00:00",
+  "Loop": true,
+  "TimeLineEvents": [
+    {
+      "Command": "create",
+      "CommandArgs": [
+        "%homedrive%%homepath%\\Documents"
+      ],
+      "DelayAfter": 1277198,
+      "DelayBefore": 0
+    }
+  ]
+},
+{
+  "HandlerType": "Word",
+  "Initial": "",
+  "UtcTimeOn": "00:00:00",
+  "UtcTimeOff": "20:00:00",
+  "Loop": false,
+  "TimeLineEvents": [
+    {
+      "Command": "create",
+      "CommandArgs": [
+        "%homedrive%%homepath%\\Documents"
+      ],
+      "DelayAfter": 1225292,
+      "DelayBefore": 0
+    }
+  ]
+},
+{
+  "HandlerType": "BrowserIE",
+  "Initial": "about:blank",
+  "UtcTimeOn": "00:00:00",
+  "UtcTimeOff": "04:00:00",
+  "Loop": true,
+  "TimeLineEvents": [
+    {
+      "Command": "random",
+      "CommandArgs": [
+        "https://www.google.com.au/",
+        "https://github.com/"
+      ],
+      "DelayAfter": 381671,
+      "DelayBefore": 0
+    }
+  ]
+},
+{
+  "HandlerType": "Command",
+  "Initial": "",
+  "UtcTimeOn": "00:00:00",
+  "UtcTimeOff": "14:00:00",
+  "Loop": true,
+  "TimeLineEvents": [
+    {
+      "Command": "cd %homedrive%%homepath%\\Downloads",
+      "CommandArgs": [
+        "powershell expand - archive - Path italian_breakfast.zip - destinationpath x",
+        "cd x",
+        "dir"
+      ],
+      "DelayAfter": 1416609,
+      "DelayBefore": 0
+    }
+  ]
+},
+
+]
+}
